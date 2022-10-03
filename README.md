@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avin4930c
+- 👋 Hi, I’m Avinash
 - 👀 I’m interested in Full stack, DSA
 - 🌱 I’m currently learning HTML, CSS
 - 💞️ I’m looking to collaborate on ...
