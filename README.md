@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Avinash
 - 👀 I’m interested in Full stack, DSA
-- 🌱 I’m currently learning HTML, CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord - Avinash#3671, LinkedIn - https://www.linkedin.com/in/avinash-haribaskar-21b298251/
 
 <!---
