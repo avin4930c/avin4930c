@@ -3,8 +3,14 @@
 
 <br>
 
-[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avinash-h/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avinash-h/)
+<br>
+<br>
 
+Latest Project:
+<br>
+
+[![Shopping Cart](https://img.shields.io/badge/Shopping%20Cart-View%20Project-brightgreen?style=for-the-badge)](https://github.com/avin4930c/shopping-cart) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen?style=for-the-badge)](https://shopping-cart-flax-one.vercel.app/)
 
 
 <h1>My Tech Stack</h1>
