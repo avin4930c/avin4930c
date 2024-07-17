@@ -2,8 +2,6 @@
 
 ## About Me
 - 👋 Hi there, I'm Avinash, a passionate Full Stack Developer.
-- 💼 Currently working on diverse projects to refine my skills in web development.
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avinash-h/)
 
