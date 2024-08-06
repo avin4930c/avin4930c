@@ -1,18 +1,7 @@
 # Hi there, I'm Avinash! 👋
 
 ## About Me
-- 👋 Hi there, I'm Avinash, a passionate Full Stack Developer.
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avinash-h/)
-
-## Latest Projects
-
-### Blog Website with CMS
-[![View Blog Frontend](https://img.shields.io/badge/Blog%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://blog-frontend-five-omega.vercel.app)
-[![View Blog CMS](https://img.shields.io/badge/Blog%20CMS-View%20Project-brightgreen?style=for-the-badge)](https://blog-cms-six-omega.vercel.app)
-
-### Shopping Cart
-[![View Project](https://img.shields.io/badge/Shopping%20Cart-View%20Project-brightgreen?style=for-the-badge)](https://shopping-cart-flax-one.vercel.app/)
+- 👋 Hi, I'm Avinash, a Full Stack Developer skilled in building dynamic web applications. Passionate about innovation and eager to tackle new challenges, I enjoy turning ideas into seamless, user-friendly solutions.
 
 ## My Tech Stack
 
@@ -40,6 +29,15 @@
   <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
+
+## Latest Projects
+
+### Blog Website with CMS
+[![View Blog Frontend](https://img.shields.io/badge/Blog%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://blog-frontend-five-omega.vercel.app)
+[![View Blog CMS](https://img.shields.io/badge/Blog%20CMS-View%20Project-brightgreen?style=for-the-badge)](https://blog-cms-six-omega.vercel.app)
+
+### Shopping Cart
+[![View Project](https://img.shields.io/badge/Shopping%20Cart-View%20Project-brightgreen?style=for-the-badge)](https://shopping-cart-flax-one.vercel.app/)
 
 <!---
 avin4930c/avin4930c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
