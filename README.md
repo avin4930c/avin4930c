@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/REST_API-E0274C?style=for-the-badge&logo=restapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </div>
 
 ## Latest Projects
